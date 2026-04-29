@@ -57,6 +57,9 @@ Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcu
 | **B** | Cancel |
 
 #### When Alarm Rings  
+
+<img width="640" height="480" alt="Alert" src="https://github.com/user-attachments/assets/a23ddbfa-3645-41f5-b1fa-833c9d0de528" />
+
 | Button | Action |
 |--------|--------|
 | **A** | Snooze (5 / 10 / 15 min — per alarm setting) |
