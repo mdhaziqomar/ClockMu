@@ -32,10 +32,6 @@ Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcu
 | **B** | Quit |
 
 #### Edit Alarm
-
-<img width="640" height="480" alt="Edit Alarm" src="https://github.com/user-attachments/assets/3588e73f-14de-4fd9-9de6-1929ad093cdd" />
-
-
 | Button | Action |
 |--------|--------|
 | Up/Down | Move between fields (Hour / Minute / Label / Repeat / Snooze / Enabled) |
@@ -46,6 +42,8 @@ Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcu
 | **Y** | Open preset time picker (every 15 min) |
 | **A** (other fields) | Save alarm |
 | **B** | Cancel |
+
+<img width="640" height="480" alt="Edit Alarm" src="https://github.com/user-attachments/assets/3588e73f-14de-4fd9-9de6-1929ad093cdd" />
 
 <img width="640" height="480" alt="Keyboard" src="https://github.com/user-attachments/assets/fd8f3256-7145-45cc-89b9-a87eae28d600" />
 
@@ -58,13 +56,12 @@ Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcu
 | **B** | Cancel |
 
 #### When Alarm Rings  
-
-<img width="640" height="480" alt="Alert" src="https://github.com/user-attachments/assets/a23ddbfa-3645-41f5-b1fa-833c9d0de528" />
-
 | Button | Action |
 |--------|--------|
 | **A** | Snooze (5 / 10 / 15 min — per alarm setting) |
 | **B** | Dismiss |
+
+<img width="640" height="480" alt="Alert" src="https://github.com/user-attachments/assets/a23ddbfa-3645-41f5-b1fa-833c9d0de528" />
 
 ### 💾 Data Persistence  
 
