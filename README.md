@@ -44,7 +44,7 @@ Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcu
 | **B** | Cancel |
 
 <img width="640" height="480" alt="Edit Alarm" src="https://github.com/user-attachments/assets/3588e73f-14de-4fd9-9de6-1929ad093cdd" />
-
+<br>
 <img width="640" height="480" alt="Keyboard" src="https://github.com/user-attachments/assets/fd8f3256-7145-45cc-89b9-a87eae28d600" />
 
 #### Preset Time Picker  
