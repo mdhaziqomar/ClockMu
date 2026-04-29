@@ -35,6 +35,7 @@ Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcu
 
 <img width="640" height="480" alt="Edit Alarm" src="https://github.com/user-attachments/assets/3588e73f-14de-4fd9-9de6-1929ad093cdd" />
 
+
 | Button | Action |
 |--------|--------|
 | Up/Down | Move between fields (Hour / Minute / Label / Repeat / Snooze / Enabled) |
