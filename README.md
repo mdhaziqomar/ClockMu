@@ -1,6 +1,6 @@
 ## ClockMu
 
-An alarm clock app for **muOS Mustard OS** on the RG35XX Pro (and compatible devices).  
+An alarm clock app for **[Mustard OS(muOS)](https://muos.dev/): 2601.1 Funky Jacaranda** on the **[Anbernic RG35XX Pro](https://anbernic.com/products/rg35xxpro)**.  
 Built with LÖVE2D, matching the muOS Mustard colour theme.
 
 Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcuong1312](https://github.com/nvcuong1312).
