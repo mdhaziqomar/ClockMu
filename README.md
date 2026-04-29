@@ -3,7 +3,7 @@
 An alarm clock app for **muOS Mustard OS** on the RG35XX Pro (and compatible devices).  
 Built with LÖVE2D, matching the muOS Mustard colour theme.
 
-Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) [by nvcuong1312](https://github.com/nvcuong1312).
+Drew inspiration from [BitMuos](https://github.com/nvcuong1312/bltMuos) by [nvcuong1312](https://github.com/nvcuong1312).
 
 <img width="640" height="480" alt="Main Screen" src="https://github.com/user-attachments/assets/f20cbf92-68a0-4413-8677-75872a1069dd" />
 
