@@ -76,16 +76,22 @@ Alarms are saved to `data/alarms.txt` automatically whenever you add, edit, dele
 ### 📚 Available Themes:  
 - Bloody Red
 <img width="640" height="480" alt="Bloody Red Theme" src="https://github.com/user-attachments/assets/ac3266be-8f14-422f-a66d-714d422908c6" />
+
 - Forest Green
 <img width="640" height="480" alt="Forest Green Theme" src="https://github.com/user-attachments/assets/60808220-5e4b-4c50-8254-a30426a2b306" />
+
 - Funky Purple
 <img width="640" height="480" alt="Funky Purple Theme" src="https://github.com/user-attachments/assets/fb0dc343-731e-47be-8a01-15c8a417faae" />
+
 - Intense Orange
 <img width="640" height="480" alt="Intense Orange Theme" src="https://github.com/user-attachments/assets/db1436bb-c2fe-449f-b68e-14220fc763f4" />
+
 - Midnight Black
 <img width="640" height="480" alt="Midnight Black Theme" src="https://github.com/user-attachments/assets/1a4f3172-f047-413a-ae09-96bb09dafec4" />
+
 - Ocean Blue
 <img width="640" height="480" alt="Ocean Blue Theme" src="https://github.com/user-attachments/assets/4dc2f7f2-ad23-435c-ad97-cda530dda675" />
+
 - Yoga White
 <img width="640" height="480" alt="Yoga White Theme" src="https://github.com/user-attachments/assets/c3aa5005-c077-492c-a498-f522d56a9669" />
 
